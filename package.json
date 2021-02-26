@@ -1,0 +1,23 @@
+{
+  "name": "corridors",
+  "version": "1.0.0",
+  "description": "Posting about wildlife corridors using eleventy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dormouseroared/corridors.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dormouseroared/corridors/issues"
+  },
+  "homepage": "https://github.com/dormouseroared/corridors#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
