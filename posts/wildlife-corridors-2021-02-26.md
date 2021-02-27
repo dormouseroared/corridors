@@ -1,7 +1,7 @@
 ---
 title: "Wildlife corridors"
 layout: post
-tags: posts
+tags: [posts, "wildlife corridor", "linear habitat"]
 date: 2021-02-26
 ---
 

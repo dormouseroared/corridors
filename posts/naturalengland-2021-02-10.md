@@ -1,7 +1,7 @@
 ---
 title: "Natural Environment Investment Readiness Fund"
 layout: post
-tags: posts
+tags: [posts, COP26, funding]
 date: 2021-02-10
 source: "Looking for information about what type of seeds to use for a species rich hay meadow in a now archived Natural England Technical Information Note, and found this looking whilst for the current version. It turns out that TIN038 has been archived without replacement or explanation."
 ---

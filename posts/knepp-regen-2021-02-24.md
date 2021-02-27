@@ -1,7 +1,7 @@
 ---
 title: "Natural regeneration at Knepp"
 layout: post
-tags: posts
+tags: [posts, Knepp, "Natural Regeneration"]
 date: 2021-02-24
 source: "From a tweet..."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Natural Flood Management in Whinlatter Forest, Cumbria"
 layout: post
-tags: posts
+tags: [posts, "Whinlatter Forest", "Natural Flood Management", "leaky dams", Cumbria]
 date: 2021-02-27
 ---
 

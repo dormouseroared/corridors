@@ -1,7 +1,7 @@
 ---
 title: "River Stour Project"
 layout: post
-tags: posts
+tags: [posts, "River Stour", "water voles"]
 date: 2021-02-27
 ---
 [River Stour project could help water voles, fish and invertebrates](https://www.gov.uk/government/news/wildlife-set-to-flourish-after-project-completion-on-river-stour?utm_medium=email&utm_campaign=govuk-notifications&utm_source=51dc36ce-8027-43ad-a83c-913b07cf668f&utm_content=immediately)
