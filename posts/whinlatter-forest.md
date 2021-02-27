@@ -19,3 +19,5 @@ This **slow the flow** [article](https://www.newsandstar.co.uk/news/19114515.dam
 ## And there's more...
 
 More on [Cocker Catchment Natural Flood Management](https://www.westcumbriariverstrust.org/projects/cocker-nfm)
+
+More on twitter [#slowtheflow](https://twitter.com/hashtag/slowtheflow?src=hashtag_click) and [West Cumbria Rivers Trust](https://twitter.com/WestCumbriaRT)
