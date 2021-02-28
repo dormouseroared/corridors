@@ -1,6 +1,7 @@
 ---
 title: using tags
 date: 2021-02-27
+tags: note
 ---
 
 Have carried out an initial go at using tags using this [eleventy doc page](https://www.11ty.dev/docs/quicktips/tag-pages/)

@@ -1,6 +1,7 @@
 ---
 title: date format
 date: 2021-02-27
+tags: note
 ---
 This is the first note to document using eleventy for the corridors blog. These notes won't be explicitly displayed on the corridors website, but they are available if needed.
 

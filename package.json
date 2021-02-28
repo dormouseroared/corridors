@@ -4,7 +4,8 @@
   "description": "Posting about wildlife corridors using eleventy",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,9 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "eleventy-plugin-date": "^1.0.0"
+  },
+  "dependencies": {
+    "eleventy-plugin-blog-tools": "^0.3.1",
+    "node-fetch": "^2.6.1"
   }
 }

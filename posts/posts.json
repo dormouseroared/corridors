@@ -1,0 +1,6 @@
+{
+    "layout": "post.njk",
+    "tags": ["posts", "default"],
+    "title": "test",
+    "date": "2021-01-01"
+}
