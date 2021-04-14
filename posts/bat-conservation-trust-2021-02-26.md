@@ -1,25 +1,13 @@
 ---
-title: "Bat Conservation Trust"
+title: "Doublespeak and the UK peat bog burning ban"
 layout: post
-tags: [posts, bat]
-date: 2021-02-27
+tags: [posts, peat]
+date: 2021-04-14
 ---
-![Bat Conservation Trust](https://ci3.googleusercontent.com/proxy/AAtR-HtuLi91I2amYUt1wK4qIm_ovZ79hzGL20jSKX3GxCPH0deC1HVRUATugrszqzHhpgbB74Hv_dlpJ017YFhdPqhJaa16c5h8oGClnR7o-iPiu50qO3PgizXFGSuJ_y1bjS99SPEVz7dHShy5wu7jbo08qRSShbk=s0-d-e1-ft#https://gallery.mailchimp.com/74f9f582daeaaab236cc1ebf0/images/9044dbe3-e056-42f1-b603-2aa419c363d1.jpg)
+[Defra does not a single, solitary clue: see Mark Avery's blog](https://markavery.info/2021/04/14/defra-omnishambles-doesnt-have-a-clue-for-peats-sake/)
 
-The [Bat Conservation Trust](https://www.bats.org.uk/) can send you an email with information about the status of bat surveys and other bat related activities every month. 
+![Freedom of Information](https://markavery.info/wp-content/uploads/2021/04/Screenshot_2021-04-13-EIR-peat-maps-March-2021-pdf.png)
 
-For example:
+![Freedom of Information](https://markavery.info/wp-content/uploads/2021/04/Screenshot_2021-04-13-EIR-peat-maps-March-2021-pdf-2.png)
 
-* Hibernation Survey COVID-19 Guidance
-* NBMP Volunteer Questionnaire 
-* Bat Tales
-* Regional Spotlight: East of England
-* How NBMP Data Contribute to Science/conservation: New Bat Indicator Published by the Office for National Statistics
-* Bugging Bats - How and What do Bats Hear?
-* Drivers of Bat Declines
-* More Dates for Your Diary
-* The Bat Monitoring Post Archive
-
-## Have a listen to the Batchat podcasts
-
-[Podcasts here](https://www.bats.org.uk/resources/batchat-the-bat-conservation-trust-podcast) and don't miss [going underground on a bat hibernation survey in the Peak District.](https://batchat.buzzsprout.com/680561/7325905-going-underground-on-a-hibernation-survey)
+[Here is Guy Shrubsole's tweet about an absurd situation](https://twitter.com/guyshrubsole/status/1382293461022478340?s=20)
