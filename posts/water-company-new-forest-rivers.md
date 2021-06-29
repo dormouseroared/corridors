@@ -3,13 +3,13 @@ title: "Campaign to stop sewage discharges into New Forest rivers"
 date: 2021-02-28
 tags: [posts, "Russell Wynn", "Wild New Forest", sewage, "Sewage (Inland Waters) Bill"]
 ---
-![Russell Wynn is Professor of Ocean and Earth Science at the University of Southampton](https://www.advertiserandtimes.co.uk/wp-content/uploads/2021/02/Russell-Wynn-colour-696x941.jpg)
+![Russell Wynn is Professor of Ocean and Earth Science at the University of Southampton](https://www.advertiserandtimes.co.uk/_media/img/750x0/K54COB9N5WT5VWJKSBQT.jpg)
 
 The story about the [One-man campaign to clean up New Forest rivers](https://www.advertiserandtimes.co.uk/sewage-new-forest-rivers) is just one of the many examples of the challenges being made to the way water companies pollute without much challenge from the Environment Agency or any other statutory body.  
 
 ## A Southern Water discharge site near Lyndhurst sewage treatment plant following heavy rainfall
 
-![discharge](https://www.advertiserandtimes.co.uk/wp-content/uploads/2021/02/Discharge-site--573x420.jpg)
+![discharge](https://www.advertiserandtimes.co.uk/_media/img/750x0/VSQHFZRX07H214DW12IO.jpg)
 
 ## The Sewage (Inland Waters) Bill
 
