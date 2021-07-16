@@ -4,7 +4,7 @@ layout: post
 tags: [posts, "River Stour", "water voles"]
 date: 2021-02-27
 ---
-<button>
+<button class="btn-warning">
     <a href="https://www.gov.uk/government/news/wildlife-set-to-flourish-after-project-completion-on-river-stour" target="_blank" rel="noopener noreferrer nofollow">Environment Agency news item</a>
 </button>
 

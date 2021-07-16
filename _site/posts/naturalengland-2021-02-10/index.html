@@ -7,15 +7,17 @@
 
     <title>Natural Environment Investment Readiness Fund</title>
 
-    <metax http-equiv="Content-Security-Policy" 
+    <meta http-equiv="Content-Security-Policy" 
     content="
         default-src 'none'; 
         upgrade-insecure-requests ;
-        style-src 'self' https://unpkg.com https://fonts.googleapis.com ;
+        form-action 'none' ;
+        style-src 'self' https://unpkg.com https://fonts.googleapis.com https://platform.twitter.com ;
         font-src https://fonts.gstatic.com ;
-        script-src 'self' ;
+        script-src 'self' https://microanalytics.io https://platform.twitter.com ;
         img-src 'self' https://* ;
-        child-src 'self' https://www.youtube.com https://player.vimeo.com ;
+        child-src 'self' https://www.youtube.com https://player.vimeo.com https://platform.twitter.com ;
+        connect-src https://microanalytics.io ;
     ">
 
     <meta name="description" content="Wildlife corridors or stepping stones in the ecological network, improved and extended including verges, woodlands, hedgerows, canals, rivers, streams">
