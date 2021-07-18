@@ -18,6 +18,8 @@ date: 2021-07-17
 
 ![Mission Blue have an article with a map](https://mission-blue.org/wp-content/uploads/2020/05/ETP-FullDataMap_HopeSpot-copia@4x.png)
 
+[Migramar](https://www.migramar.org/en/index) research and provide the necessary technical advice for the conservation of the migratory marine species in the Eastern Pacific. They are on twitter as [@MigraMar](https://twitter.com/MigraMar).
+
 
 ## Corridors in the air too
 
