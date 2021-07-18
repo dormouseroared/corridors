@@ -1,7 +1,7 @@
 ---
 title: "Corridors are in the sea too"
 layout: post
-tags: [posts, sea, Galapogos]
+tags: [posts, sea, Galapagos]
 date: 2021-07-17
 ---
 ![Aerial view of Cocos Island (c) Avi Klapfer](https://mission-blue.org/wp-content/uploads/2020/04/Avi-Klapfer-2355.jpg "Aerial view of Cocos Island (c) Avi Klapfer")
