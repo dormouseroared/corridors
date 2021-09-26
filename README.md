@@ -7,6 +7,7 @@ Just a way to make notes on topics of interest.
 
 * npx eleventy
 * git add .
+* git commit -m "details of what is being changed"
 * git push
 
 Probably needs updating

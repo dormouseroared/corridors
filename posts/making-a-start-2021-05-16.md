@@ -1,5 +1,5 @@
 ---
-title: "making a start at the hedgerow, verge or landscape scale"
+title: "Making a start at the hedgerow, verge or landscape scale"
 layout: post
 tags: [posts, action]
 date: 2021-05-16
