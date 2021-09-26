@@ -9,4 +9,4 @@ date: 2021-09-27
 
 
 
-[Lawmakers purchase land in first steps towards implementing the Florida Wildlife Corridor Act](https://wusfnews.wusf.usf.edu/environment/2021-09-22/lawmakers-purchase-land-in-first-steps-toward-implementing-florida-wildlife-corridor-act)
+See this article for acknowledgements and more information about the [Florida Wildlife Corridor Act](https://wusfnews.wusf.usf.edu/environment/2021-09-22/lawmakers-purchase-land-in-first-steps-toward-implementing-florida-wildlife-corridor-act)
