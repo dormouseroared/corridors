@@ -1,7 +1,7 @@
 ---
 title: Wildlife Corridors
 subtitle: "More ecological network connections!"
-detail: "Wildlife needs the flow, shelter and food sources made possible by many ecological connections across landscapes, including verges, hedgerows, woodlands, plantations, canals, meadows, floodplains, streams, rivers, forgotten pockets and we need to support, improve and extend the network. And don't forget the air and the seas."
+detail: "Wildlife needs the flow, shelter and food sources made possible by many ecological connections across landscapes, including verges, hedgerows, woodlands, plantations, canals, meadows, floodplains, streams, rivers, lakes, estuaries, forgotten pockets. We need to support, improve and extend the network. And don't forget the air and the seas."
 layout: base
 ---
 <button class="btn-large btn-success">{{ title }}</button>
@@ -11,9 +11,9 @@ layout: base
 <button>{{ detail }}</button>
 
 {% for post in collections.posts | reverse %}
-{% if loop.index0 < 15 %}
-    <h5>
-    <a href="{{ post.url }}">{{ post.data.title }} &bull; {{ post.date | readableDate }}</a>
-    </h5>
-{% endif %}
+    {% if loop.index0 < 20 %}
+        <h3 class="badge success">
+            <a href="{{ post.url }}">{{ post.data.title }} &bull; {{ post.date | readableDate }}</a>
+        </h3>
+    {% endif %}
 {% endfor %}
