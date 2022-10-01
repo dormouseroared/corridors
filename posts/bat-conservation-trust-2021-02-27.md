@@ -20,4 +20,4 @@ For example:
 
 ## Have a listen to the Batchat podcasts
 
-[Podcasts here](https://www.bats.org.uk/resources/batchat-the-bat-conservation-trust-podcast) and don't miss [going underground on a bat hibernation survey in the Peak District.](https://batchat.buzzsprout.com/680561/7325905-going-underground-on-a-hibernation-survey)
+[Podcasts here](https://www.bats.org.uk/resources/batchat-the-bat-conservation-trust-podcast) and also, don't miss [going underground on a bat hibernation survey in the Peak District.](https://batchat.buzzsprout.com/680561/7325905-going-underground-on-a-hibernation-survey)
